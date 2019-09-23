@@ -5,9 +5,7 @@ git tag  "$moment"
 
 current_branch=$(git symbolic-ref --short -q HEAD)
 
-if [ "$current_branch" == "master" ]; then
-        :
-else
+if [ "$current_branch" != "master" ]; then
         git tag "$current_branch"
 fi
 
