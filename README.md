@@ -1,6 +1,3 @@
-# homework
-Homework -- shell script for working with Git tags. 
-
 The script (after being made executable :D): 
 1. Creates a lightweight tag containing the current date and time 
 
