@@ -14,8 +14,6 @@ fi
 argument=$1
 if [[ -n $argument ]]; then
         git tag "$argument"
-else
-        echo "No arguments had -- no work done ;)"
 fi
 
 git push origin --tags
