@@ -20,6 +20,7 @@ After several technical experiments and aesthetic considerations, I also separat
 
 
 How to use: 
+
 0. Make the script executable 
 chmod u+x script.sh 
 
