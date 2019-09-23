@@ -15,7 +15,6 @@ After several technical experiments and aesthetic considerations, I also separat
 
 4. All the tags are pushed to "origin" (the remote repo) 
 
-
 How to use: 
 
 0. Make the script executable 
